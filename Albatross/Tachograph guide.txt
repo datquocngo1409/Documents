@@ -1,0 +1,9 @@
+Please keep Damian Kowalewski CC – We both supporting device protocol implementation.
+
+To download S8.5 DDD files You need to:
+
+1.	Work with Albatross protocol (F7 dataframe).
+a.	http://partner.albatross.com.pl/download/ENG_Terminal%20GPRS%20S%20FM%20-%20protocol%20integration/S8_FM_TechnicalDocumentation_1.44.pdf
+2.	Integrate TMR protocol (Tachograph Memory Reader)
+a.	https://docs.google.com/document/d/1Nt0m-tsvHvBL7HEeMrMgWMr-Sjib1y_96ljA6PQLdS0/edit
+b.	http://partner.albatross.com.pl/download/ENG_Terminal%20GPRS%20S%20FM%20-%20protocol%20integration/S8_TechnicalDocumentation_integration_with_TMR_1.01.pdf 
